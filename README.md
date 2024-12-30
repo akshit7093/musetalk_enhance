@@ -1,4 +1,3 @@
-```markdown
 # MuseTalk with Enhanced Super-Resolution
 
 This project enhances the MuseTalk repository by integrating super-resolution using **GFPGAN** and **CodeFormer**. The modifications ensure that only the generated parts of a video frame are enhanced, improving the output quality while maintaining efficiency.
@@ -123,4 +122,3 @@ python x.py --superres [GFPGAN/CodeFormer] -iv input.mp4 -ia input.mp3 -o output
 - For any issues, verify that all models and weights are downloaded and properly structured.
 
 Enjoy enhancing your videos with MuseTalk and advanced super-resolution!
-```
